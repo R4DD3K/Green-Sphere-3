@@ -1,0 +1,11 @@
+Model Information:
+* title:	Low-poly mitsubishi F2
+* source:	https://sketchfab.com/3d-models/low-poly-mitsubishi-f2-647399ebed4e48f8846356ed09be31c5
+* author:	SiTitan (https://sketchfab.com/SiTitan)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Low-poly mitsubishi F2" (https://sketchfab.com/3d-models/low-poly-mitsubishi-f2-647399ebed4e48f8846356ed09be31c5) by SiTitan (https://sketchfab.com/SiTitan) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
